@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "title": "Beat Encoder Utilities — Sua biblioteca de DJ em outro nível",
+    "description": "Beat Encoder Utilities — o kit de ferramentas para bibliotecas de DJ. Organize, avalie, corrija e nivele suas músicas, tudo localmente."
+  },
+  "nav": {
+    "tools": "Ferramentas",
+    "spectrum": "Espectro",
+    "verdicts": "Vereditos",
+    "workflow": "Como funciona",
+    "glance": "Em resumo",
+    "getApp": "Baixar o app",
+    "language": "Idioma"
+  },
+  "hero": {
+    "kicker": "PARA DJS QUE LEVAM SUA BIBLIOTECA A SÉRIO — MAC & WINDOWS",
+    "titleA": "Sua biblioteca,",
+    "titleB": "dominada.",
+    "subtitleA": "Pastas bagunçadas, tags quebradas, músicas que murcham no club.",
+    "subtitleB": "Um app resolve tudo — e você entra em todo set com uma biblioteca em que confia.",
+    "download": "Baixar grátis",
+    "explore": "Conhecer as ferramentas",
+    "trust1": "Sua música nunca sai do seu computador",
+    "trust2": "Privado por padrão — sem uploads",
+    "captionLeft": "5 ferramentas · 1 biblioteca · Zero estresse",
+    "captionRight": "Baixe grátis",
+    "formats": ["FLAC", "MP3", "AIFF", "WAV", "M4A", "ORGANIZAR", "AVALIAR", "CORRIGIR", "NIVELAR", "TOCAR"]
+  },
+  "tools": {
+    "titleA": "Cinco ferramentas.",
+    "titleB": "Uma biblioteca.",
+    "subtitle": "Toque numa ferramenta e veja o que ela faz por você. Organize uma vez, e o resto — vereditos, tags, volumes — já está resolvido.",
+    "tabLabel": "Ferramentas",
+    "items": [
+      {
+        "name": "Organizador de Biblioteca",
+        "tagline": "Do caos aos crates em minutos.",
+        "description": "Aquela pasta de downloads que você vive evitando? Arraste para cá, veja exatamente como sua biblioteca vai ficar e assista milhares de músicas caírem no lugar.",
+        "bullets": [
+          "Sua música, do seu jeito — por gênero, artista, ano e mais",
+          "Nomes bagunçados limpos automaticamente",
+          "Veja o plano completo antes de qualquer mudança"
+        ],
+        "meta": "FLAC · MP3 · AIFF · WAV · M4A"
+      },
+      {
+        "name": "Espectro & Qualidade",
+        "tagline": "Conheça cada música antes da pista.",
+        "description": "Já tocou uma música que murchou no clube? Nunca mais. Cada música ganha um de cinco vereditos — de Master Lossless Legítimo até Falso Transcode.",
+        "bullets": [
+          "Um olhar e você sabe se a música entrega",
+          "Transcodes falsos expostos — a extensão do arquivo não engana",
+          "Encontre qualquer música em segundos por artista, gênero ou qualidade"
+        ],
+        "meta": "5 vereditos · de HQ a Baixo"
+      },
+      {
+        "name": "Corretor de Tags",
+        "tagline": "Chega de 'Artista Desconhecido'.",
+        "description": "Nomes faltando, títulos em branco, anos errados — resolvidos. O Beat Encoder sugere os dados certos para cada música, você confere, aprova, e sua biblioteca finalmente faz sentido.",
+        "bullets": [
+          "Sugestões inteligentes para cada detalhe faltante",
+          "Você aprova cada correção — nada muda pelas suas costas",
+          "Seus arquivos ficam exatamente onde estão"
+        ],
+        "meta": "Artista · Título · Álbum · Gênero · Ano"
+      },
+      {
+        "name": "Normalizador de Volume",
+        "tagline": "Todas as músicas. Mesma energia.",
+        "description": "Chega de pilotar o ganho no meio do set. Escolha um alvo e cada música chega lá — alto e potente para o club, certeiro para o streaming, suave para o warm-up.",
+        "bullets": [
+          "DJ Master: alto e potente para o club",
+          "Streaming: otimizado para plataformas online",
+          "Conservador: ótimo para os clássicos e ambientes acústicos",
+          "Duas formas de aplicar: só etiqueta (áudio intacto) ou recodificação"
+        ],
+        "meta": "Club · Streaming · Conservador"
+      },
+      {
+        "name": "Rekordbox & Playlists",
+        "tagline": "Seu próximo set, quase pronto.",
+        "description": "Sua biblioteca limpa, avaliada e nivelada — pronta para a cabine. A mágica do Rekordbox e das playlists está a caminho, e sua biblioteca vai estar pronta no dia em que chegar.",
+        "bullets": [
+          "Feito para o jeito que DJs realmente preparam sets",
+          "Chegando em uma próxima versão",
+          "Baixe agora e seja o primeiro da fila"
+        ],
+        "meta": "Em breve · Prepare-se já"
+      }
+    ]
+  },
+  "spectrum": {
+    "kicker": "ESPECTRO & QUALIDADE",
+    "title": "Música fraca fantasiada de premium não tem onde se esconder.",
+    "subtitle": "Um arquivo pode se dizer premium e soar como um rip barato — o rótulo não prova nada. O Beat Encoder escuta de verdade e te diz, em português claro, quanto cada música realmente vale. Sem achismo, só evidência.",
+    "metrics": [
+      { "value": "Analisadas", "label": "Qualquer música", "note": "Escolha a música e obtenha um veredito de uma vez" },
+      { "value": "Português claro", "label": "Vereditos", "note": "Do master ao transcode falso — sem jargão" },
+      { "value": "Detecção antecipada", "label": "Picos estourados", "note": "Distorção achada em casa, não no palco" },
+      { "value": "Em segundos", "label": "Achar uma música", "note": "Por artista, gênero, qualidade e mais" }
+    ],
+    "cardTitle": "Solomun — Home.flac",
+    "cardSub": "Aperte o play. Ouça a diferença.",
+    "badge": "Master Lossless Legítimo",
+    "axis": ["Grave", "Médio", "Brilho", "Ar"],
+    "chips": ["Soa tão bem quanto promete", "Pronta para o club", "Sem clipping, sem distorção"]
+  },
+  "grading": {
+    "titleA": "Cada música,",
+    "titleB": "sem disfarce.",
+    "subtitle": "Sem caixa-preta, sem promessas vagas. Cada música recebe um destes vereditos — veja o que cada um significa para o seu set.",
+    "rows": [
+      { "verdict": "Master Lossless Legítimo", "meaning": "A coisa real — som rico e completo, exatamente como prometido" },
+      { "verdict": "MP3 320 kbps Autêntico", "meaning": "Entrega tudo o que o arquivo promete" },
+      { "verdict": "MP3 Autêntico de Alta Taxa", "meaning": "Um arquivo honesto, com som de espectro cheio — rotulado com sua taxa real" },
+      { "verdict": "Possível Transcode (~192k)", "meaning": "Fantasiado de premium, mas o som não confirma" },
+      { "verdict": "Falso Transcode (Corte em 128k)", "meaning": "Um arquivo barato numa fantasia cara" }
+    ],
+    "cards": [
+      { "title": "Estouro no vermelho não passa batido", "body": "Música que clipa no vermelho é sinalizada e perde pontos — alto só vale quando é limpo." },
+      { "title": "Nota máxima se conquista", "body": "O selo HQ é reservado para o melhor do melhor. Bom, Regular e Baixo vêm abaixo — um olhar, decisão instantânea." },
+      { "title": "Alto nunca finge qualidade", "body": "Ser alto não faz uma música ser boa. A sonoridade aparece para ajudar a nivelar seu set — nunca para inflar um veredito." }
+    ],
+    "footnote": "E quando falta BPM ou tom numa música, o Beat Encoder estima a partir da própria música — sempre marcado como estimativa, nunca como fato. Seus dados etiquetados sempre vencem."
+  },
+  "workflow": {
+    "titleA": "Potência total.",
+    "titleB": "Medo zero.",
+    "subtitle": "Sua biblioteca levou anos para ser construída. O Beat Encoder sabe disso.",
+    "stepPrefix": "ETAPA",
+    "steps": [
+      { "title": "Traga sua biblioteca", "body": "Aponte o Beat Encoder para a música que você já tem. Em instantes, cada música é encontrada, avaliada e pronta para explorar — sem conta, sem uploads, sem burocracia." },
+      { "title": "Veja. Aprove. Pronto.", "body": "Nada acontece pelas suas costas. Veja exatamente o que vai mudar, ajuste o que quiser e só aperte o botão quando estiver perfeito." },
+      { "title": "Mudou de ideia? Volte atrás.", "body": "Teste uma estrutura nova e ousada, renomeie com confiança, experimente à vontade. Não amou? Um clique e tudo volta." }
+    ]
+  },
+  "closing": {
+    "kicker": "EM RESUMO",
+    "titleA": "Funciona instantaneamente.",
+    "titleB": "Privado por natureza.",
+    "body": "Abra o app e pronto: sua biblioteca está lá. Rápido, lindo e inteiramente seu — sua música nunca sai do seu computador, e não há conta para criar. Baixe, solte suas músicas e sinta a diferença no primeiro minuto.",
+    "specs": [
+      { "k": "5 ferramentas em um app", "v": "organizar, avaliar, corrigir, nivelar, tocar" },
+      { "k": "Seus formatos", "v": "FLAC · MP3 · AIFF · WAV · M4A" },
+      { "k": "Plataformas", "v": "macOS & Windows" },
+      { "k": "Idiomas", "v": "English · Português (BR)" },
+      { "k": "Visual", "v": "Claro, escuro — ou segue seu sistema" },
+      { "k": "Preço", "v": "Grátis" }
+    ],
+    "dlTitleA": "Pronto para limpar",
+    "dlTitleB": "a biblioteca?",
+    "dlBody": "Grátis, e pronto quando você estiver. Baixe, selecione sua biblioteca e veja a bagunça virar uma coleção que dá orgulho de tocar.",
+    "platforms": [
+      { "name": "macOS", "cta": "Baixar para Mac", "detail": "Apple Silicon & Intel" },
+      { "name": "Windows", "cta": "Baixar para Windows", "detail": "x64 & ARM64" }
+    ],
+    "source": "Explore o código, issues & roadmap",
+    "footerTag": "ORGANIZAR · AVALIAR · CORRIGIR · NIVELAR · TOCAR",
+    "footerTools": "Ferramentas",
+    "footerDownload": "Baixar"
+  },
+  "mockup": {
+    "badge": "Pronta para tocar",
+    "title": "Organizador de Biblioteca",
+    "subtitle": "Do seu jeito: Gênero → Artista → Ano",
+    "button": "Ver plano",
+    "nav": ["Organizador", "Espectro", "Corretor de Tags", "Normalizador", "Rekordbox", "Ajustes"],
+    "ready": "Pronta"
+  }
+}

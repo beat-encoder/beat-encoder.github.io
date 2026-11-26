@@ -1,0 +1,171 @@
+{
+  "meta": {
+    "title": "Beat Encoder Utilities — Your DJ library, mastered",
+    "description": "Beat Encoder Utilities — the desktop toolkit for DJ libraries. Organize, grade, fix and level your tracks, all locally."
+  },
+  "nav": {
+    "tools": "Tools",
+    "spectrum": "Spectrum",
+    "verdicts": "Verdicts",
+    "workflow": "Workflow",
+    "glance": "At a glance",
+    "getApp": "Get the app",
+    "language": "Language"
+  },
+  "hero": {
+    "kicker": "FOR DJS WHO TAKE THEIR LIBRARY SERIOUSLY — MAC & WINDOWS",
+    "titleA": "Your DJ library,",
+    "titleB": "mastered.",
+    "subtitleA": "Messy folders, broken tags, tracks that fall apart on a big system.",
+    "subtitleB": "One app puts it all right — so you walk into every set backed by a library you trust.",
+    "download": "Download free",
+    "explore": "Explore the tools",
+    "trust1": "Your music never leaves your computer",
+    "trust2": "Private by design — no uploads",
+    "captionLeft": "5 tools · 1 library · Zero stress",
+    "captionRight": "Free to download",
+    "formats": ["FLAC", "MP3", "AIFF", "WAV", "M4A", "ORGANIZE", "GRADE", "FIX", "LEVEL", "PLAY"]
+  },
+  "tools": {
+    "titleA": "Five tools.",
+    "titleB": "One library.",
+    "subtitle": "Tap a tool and see what it does for you. Organize once, and everything else — grades, tags, levels — is already taken care of.",
+    "tabLabel": "Tools",
+    "items": [
+      {
+        "name": "Library Organizer",
+        "tagline": "From chaos to crates in minutes.",
+        "description": "That downloads folder you've been avoiding? Drop it in, see exactly how your library will look, then watch thousands of tracks fall perfectly into place.",
+        "bullets": [
+          "Your music, sorted your way — by genre, artist, year and more",
+          "Messy names cleaned up automatically",
+          "See the full plan before anything moves"
+        ],
+        "meta": "FLAC · MP3 · AIFF · WAV · M4A"
+      },
+      {
+        "name": "Spectrum & Quality",
+        "tagline": "Know every track before the crowd does.",
+        "description": "Ever dropped a track that sounded thin on a big system? Never again. Every track earns one of five verdicts — from Genuine Lossless Master all the way down to Fake Transcode.",
+        "bullets": [
+          "One glance tells you if a track truly delivers",
+          "Fake transcodes exposed — the file extension can't fool it",
+          "Find any track in seconds by artist, genre or quality"
+        ],
+        "meta": "5 verdicts · HQ to Low"
+      },
+      {
+        "name": "Tag Fixer",
+        "tagline": "No more 'Unknown Artist'.",
+        "description": "Missing names, blank titles, wrong years — fixed. Beat Encoder suggests the right details for every track, you glance, approve, and your library finally makes sense.",
+        "bullets": [
+          "Smart suggestions for every missing detail",
+          "You approve each fix — nothing changes behind your back",
+          "Your files stay exactly where they are"
+        ],
+        "meta": "Artist · Title · Album · Genre · Year"
+      },
+      {
+        "name": "Volume Normalizer",
+        "tagline": "Every track. Same energy.",
+        "description": "No more riding the gain knob mid-set. Pick a target and every track lands there — loud and proud for the club, spot-on for streaming, gentle for the warm-up.",
+        "bullets": [
+          "DJ Master: tuned loud and proud for club systems",
+          "Streaming: spot-on for every platform",
+          "Conservative: great for classics and acoustic settings",
+          "Two ways to apply: tag-only (audio untouched) or re-encode"
+        ],
+        "meta": "Club · Streaming · Conservative"
+      },
+      {
+        "name": "Rekordbox & Playlists",
+        "tagline": "Your next set, almost ready.",
+        "description": "Your cleaned, graded, leveled library — ready for the booth. Rekordbox and playlist magic is on its way, and your library will be ready the day it lands.",
+        "bullets": [
+          "Built for the way DJs actually prepare",
+          "Arriving in a coming release",
+          "Get the app now and be first in line"
+        ],
+        "meta": "Coming soon · Get ready now"
+      }
+    ]
+  },
+  "spectrum": {
+    "kicker": "SPECTRUM & QUALITY",
+    "title": "A weak track in a premium costume has nowhere to hide.",
+    "subtitle": "A file can claim to be premium and still sound like a cheap rip — the label proves nothing. Beat Encoder actually listens, then tells you in plain English what each track is really worth. No vibes, just evidence.",
+    "metrics": [
+      { "value": "Judged", "label": "Any track", "note": "Choose the track and get a verdict in one pass" },
+      { "value": "Plain English", "label": "Verdicts", "note": "From master to fake transcode — no jargon" },
+      { "value": "Caught early", "label": "Clipping peaks", "note": "Distortion found at home, not on stage" },
+      { "value": "In seconds", "label": "Find a track", "note": "By artist, genre, quality and more" }
+    ],
+    "cardTitle": "Solomun — Home.flac",
+    "cardSub": "Press play. Hear the difference.",
+    "badge": "Genuine Lossless Master",
+    "axis": ["Deep", "Warm", "Bright", "Airy"],
+    "chips": ["Sounds as good as it claims", "Ready for the club", "No clipping, no distortion"]
+  },
+  "grading": {
+    "titleA": "Every track,",
+    "titleB": "honestly labeled.",
+    "subtitle": "No black box, no vague promises. Every track gets one of these verdicts — here's what each one means for your set.",
+    "rows": [
+      { "verdict": "Genuine Lossless Master", "meaning": "The real deal — rich, full sound exactly as promised" },
+      { "verdict": "Legit 320 kbps MP3", "meaning": "Delivers everything the file claims to be" },
+      { "verdict": "Genuine High-Bitrate MP3", "meaning": "An honest file with a full-spectrum sound — labeled with its true bitrate" },
+      { "verdict": "Suspected ~192k Transcode", "meaning": "Dressed as premium, but the sound doesn't back it up" },
+      { "verdict": "Fake Transcode (128kbps Cutoff)", "meaning": "A cheap file in an expensive costume" }
+    ],
+    "cards": [
+      { "title": "Clipping into the red doesn't get a free pass", "body": "Tracks clipping into the red get flagged and marked down — loud only counts when it's clean." },
+      { "title": "Top marks are earned", "body": "The HQ badge is reserved for the best of the best. Good, Regular and Low follow below — one glance, instant decision." },
+      { "title": "Loud never fakes quality", "body": "Being loud doesn't make a track good. Loudness is shown to help you level your set — it never inflates a verdict." }
+    ],
+    "footnote": "And when a track is missing its BPM or key, Beat Encoder takes an educated guess from the music itself — clearly labelled as an estimate, never presented as fact. Your tagged details always win."
+  },
+  "workflow": {
+    "titleA": "All the power.",
+    "titleB": "None of the fear.",
+    "subtitle": "Your library took years to build. Beat Encoder treats it that way.",
+    "stepPrefix": "STEP",
+    "steps": [
+      { "title": "Drop in your library", "body": "Point Beat Encoder at the music you already have. In moments, every track is found, graded and ready to explore — no account, no uploads, no fuss." },
+      { "title": "Preview. Approve. Done.", "body": "Nothing ever happens behind your back. See exactly what will change, tweak anything you like, and only press go when it looks perfect." },
+      { "title": "Changed your mind? Undo it.", "body": "Try a bold new structure, rename with confidence, experiment freely. If you don't love it, one click takes you right back." }
+    ]
+  },
+  "closing": {
+    "kicker": "AT A GLANCE",
+    "titleA": "Feels instant.",
+    "titleB": "Stays private.",
+    "body": "Open it and your library is just… there. Fast, gorgeous, and entirely yours — your music never leaves your computer, and there's no account to create. Download, drop in your tracks, and feel the difference in the first minute.",
+    "specs": [
+      { "k": "5 Tools in one app", "v": "organize, grade, fix, level, play" },
+      { "k": "Your formats", "v": "FLAC · MP3 · AIFF · WAV · M4A" },
+      { "k": "Platforms", "v": "macOS & Windows" },
+      { "k": "Languages", "v": "English · Português (BR)" },
+      { "k": "Look & feel", "v": "Light, dark — or match your system" },
+      { "k": "Price", "v": "Free" }
+    ],
+    "dlTitleA": "Ready to clean up",
+    "dlTitleB": "the crates?",
+    "dlBody": "Free, and ready when you are. Download it, drop in your library, and watch the mess turn into a collection you're proud to play from.",
+    "platforms": [
+      { "name": "macOS", "cta": "Download for Mac", "detail": "Apple Silicon & Intel" },
+      { "name": "Windows", "cta": "Download for Windows", "detail": "x64 & ARM64" }
+    ],
+    "source": "Browse the source, issues & roadmap",
+    "footerTag": "ORGANIZE · GRADE · FIX · LEVEL · PLAY",
+    "footerTools": "Tools",
+    "footerDownload": "Download"
+  },
+  "mockup": {
+    "badge": "Ready to play",
+    "title": "Library Organizer",
+    "subtitle": "Your way: Genre → Artist → Year",
+    "button": "Run plan",
+    "nav": ["Organizer", "Spectrum", "Tag Fixer", "Normalizer", "Rekordbox", "Settings"],
+    "ready": "Ready"
+  }
+}
